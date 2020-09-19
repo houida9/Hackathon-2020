@@ -1,1 +1,1 @@
-web: Hackathon-2020:gunicorn app
+web: gunicorn Hackathon-2020:app

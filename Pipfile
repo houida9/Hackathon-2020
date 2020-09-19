@@ -8,6 +8,12 @@ verify_ssl = true
 [packages]
 gunicorn = "*"
 flask = "*"
+flask-admin = "*"
+flask-sqlalchemy = "*"
+flask-security = "*"
+enum34 = "*"
+email-validator = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"

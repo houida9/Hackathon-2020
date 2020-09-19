@@ -1,3 +1,5 @@
+import os
+
 # Create dummy secrey key so we can use sessions
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
